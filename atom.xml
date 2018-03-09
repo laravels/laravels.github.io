@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Click]]></title>
+  <link href="http://laravels.github.io/atom.xml" rel="self"/>
+  <link href="http://laravels.github.io/"/>
+  <updated>2018-03-10T00:50:56+07:00</updated>
+  <id>http://laravels.github.io/</id>
+  <author>
+    <name><![CDATA[Rian Arfiandi]]></name>
+    
+  </author>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hallo]]></title>
+    <link href="http://laravels.github.io/blog/2018/03/09/hallo/"/>
+    <updated>2018-03-09T22:43:49+07:00</updated>
+    <id>http://laravels.github.io/blog/2018/03/09/hallo</id>
+    <content type="html"><![CDATA[<p>author : Rian Arfiandi</p>
+
+<p>hello hoho</p>
+]]></content>
+  </entry>
+  
+</feed>
