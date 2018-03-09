@@ -1,0 +1,6 @@
+[submodule ".themes/mangan"]
+	path = .themes/mangan
+	url = git://github.com/dikiaap/mangan.git
+[submodule ".themes/xpress"]
+	path = .themes/xpress
+	url = git://github.com/xguox/xpress.git

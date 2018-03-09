@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 group :development do
-  gem 'rake', '~> 10.0'
+  gem 'rake', '~> 12.3.0'
   gem 'jekyll', '~> 2.0'
   gem 'octopress-hooks', '~> 2.2'
   gem 'octopress-date-format', '~> 2.0'
@@ -16,3 +16,4 @@ group :development do
 end
 
 gem 'sinatra', '~> 1.4.2'
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
